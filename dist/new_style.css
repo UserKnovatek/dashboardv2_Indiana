@@ -1,0 +1,219 @@
+.instruc {
+    margin: 0px;
+    padding: 2px;
+    }
+    p.ptext {
+    border: 2px solid #e7e4e4;
+    padding: 8px;
+    border-radius: 30px;
+    color: #000000;
+    padding: 17px;
+    text-align: justify;
+    }
+    p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    }
+    .nav-link {
+    display: flex;
+    align-items: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    position: relative;
+    }
+    .nav-sidebar>.nav-item {
+    margin-bottom: 15px;
+    }
+
+
+#colorname1 {
+    background-color: #F9B21A;
+}
+#colorname2 {
+    background-color: #003388;
+}
+#colorname3 {
+    background-color: #e50c0c;
+}
+
+.card-header1 {
+    color: #fff;
+    border-top-right-radius: 10px 8px;
+    border-top-left-radius: 10px 8px;
+    text-align: center;
+    padding: 0.5rem 1rem;
+    margin-bottom: 0;
+    border-bottom: 1px solid rgba(150, 150, 150, 0.125);
+}
+
+.card-body {
+    text-align: -webkit-center;
+}
+.card-title {
+    margin-bottom: 0.5rem;
+    float: none;
+}
+
+h2.card-title {
+    text-align: center;
+    padding: 0px;
+}
+
+h4.card-title {
+    text-align: center;
+    color: #003388;
+}
+p.card-text {
+    text-align: center;
+    color: #6B7280;
+}
+p.card-text {
+    text-align: center;
+    color: #6B7280;
+}
+
+.circular--portrait {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.card .card-body, .card .card-footer {
+    padding: 0.9375rem 1.875rem;
+}
+
+.card-body {
+    font-weight: 900;
+    font-size: 13px;
+    min-height: 1px;
+    padding: 13px;
+    flex: 1 1 auto;
+}
+.card.mb-3 {
+    box-shadow: 0px 5px 5px 0px #0000008a;
+    border-radius: 8px;
+    border: none;
+}
+
+.card-header1 {
+    color: #fff;
+    border-top-right-radius: 10px 8px;
+    border-top-left-radius: 10px 8px;
+    text-align: center;
+    padding: 0.5rem 1rem;
+    margin-bottom: 0;
+    border-bottom: 1px solid rgba(150, 150, 150, 0.125);
+}
+i.pd-follow.fa.fa-heart {
+    color: #f1170c;
+}
+
+/* h4.card-title {
+    position: relative;
+    left: 43px;
+} */
+.Republican {
+    border-color: #e50c0c !important;
+    background-color: #e50c0c !important;
+    color:#fff !important;
+}
+.Democratic {
+    border-color: #003388 !important;
+    background-color: #003388 !important;
+    color:#fff !important;
+}
+.Libertarian {
+    border-color: #F9B21A !important;
+    background-color: #F9B21A !important;
+    color:#fff !important;
+}
+
+/* socila icon design */
+.btn.btn-social-icon{
+    width: 40px;
+    height: 40px;
+    padding: 0;
+}
+.template-demo > .btn{
+    margin-right: 0.5rem !important;
+}
+.template-demo{
+    margin-top: 0.5rem !important;
+}
+.btn.btn-rounded {
+    border-radius: 50px;
+}
+.btn-outline-facebook {
+    border: 1px solid #3b579d !important;
+}
+.btn-outline-facebook:hover {
+    background: #3b579d;
+}
+
+.btn-outline-twitter:hover {
+    background: #2caae1;
+    color: #ffffff;
+}
+.btn-outline-google:hover {
+    background: #0177b5;
+    color: #ffffff;
+}
+.btn-outline-twitter {
+    border: 1px solid #2caae1 !important;
+}
+.btn-outline-facebook {
+    border: 1px solid #3b579d !important;
+}
+.btn-outline-google {
+    border: 1px solid #0177b5 !important;
+}
+
+p.inlive {
+    margin-bottom: 8px;
+}
+button.btn.btn-warning.nw {
+    border-radius: 50px;
+    color: #fff;
+    margin: 0px;
+    width: 30px;
+    padding: 0px;
+}
+/* social icon design end */
+.btn-candidate-more-info {
+    font-weight: 700;
+    padding: 1.125rem 0.25rem;
+    font-size: 18px;
+    color: #e91e63 !important;
+    border-color: #e91e63 !important;
+    border-width: 2px !important;
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+    word-breal: break-all !important;
+    -webkit-hyphens: auto !important;
+    -ms-hyphens: auto !important;
+    hyphens: auto !important;
+    white-space: normal;
+}
+button.btn.btn-warning.new2 {
+    border-radius: 7px;
+    width: 250px;
+    color: #fff;
+    background: #1C1C4C;
+    border-color: #1C1C4C;
+}
+
+img.img-responsive.img1 {
+    height: 70%;
+    width: fit-content;
+    right: 15px;
+    position: absolute;
+    border-radius: 24px;
+    top: 10px;
+}
+.btnclass {
+    text-align: end;
+}
+i.pd-follow {
+    cursor: pointer;
+}
